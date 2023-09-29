@@ -14,7 +14,7 @@ Desenvolvedor Front-end.</h3>
 <br>
 
 <p align="center">
-  <img alt="portfólio" src="./.github/preview.jpg" width="100%">
+  <img alt="portfólio" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
